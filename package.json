@@ -1,0 +1,19 @@
+{
+  "name": "com.zekelionhart.organizer",
+  "version": "0.5.0",
+  "displayName": "OrganiZer",
+  "description": "This tool helps you keep organized and\nproductive with 4 different features, such\nas a Pomodoro timer and a task board.",
+  "unity": "2020.3",
+  "unityRelease": "25f1",
+  "keywords": [
+    "organization",
+    "productivity",
+    "management"
+  ],
+  "author": {
+    "name": "Luiz Henrique P. de Carvalho",
+    "email": "luizh_pc@hotmail.com",
+    "url": "https://github.com/ZekeLionhart"
+  },
+  "type": "tool"
+}

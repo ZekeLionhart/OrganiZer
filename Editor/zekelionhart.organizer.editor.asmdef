@@ -1,0 +1,16 @@
+{
+    "name": "zekelionhart.organizer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:61d91ce0db5e07c1888c6c43fafb90b6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
