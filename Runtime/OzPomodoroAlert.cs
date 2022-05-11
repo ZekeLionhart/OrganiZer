@@ -40,8 +40,18 @@ public class OzPomodoroAlert : MonoBehaviour
             if (context != null) context.Show();
             stopWatch.Reset();
             stopWatch = null;
+            DestroyThis();
         }
-        if (context == null && stopWatch != null) stopWatch.Stop();
+        if (context == null && stopWatch != null) 
+        {
+            stopWatch.Stop();
+            DestroyThis();
+        }
+    }
+
+    public void DestroyThis()
+    {
+        DestroyImmediate(this.gameObject);
     }
 }
 #endif

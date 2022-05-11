@@ -219,7 +219,10 @@ public class OrganiZer : EditorWindow
         }
 
         if (GUILayout.Button(OzStrings.RESET_BTN, GUILayout.Height(30)))
+        {
             stopWatch.Reset();
+            GameObject.FindObjectOfType<OzPomodoroAlert>().DestroyThis();
+        }
 
         GUILayout.EndHorizontal();
 
