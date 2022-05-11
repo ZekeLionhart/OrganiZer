@@ -1,6 +1,6 @@
 {
   "name": "com.zekelionhart.organizer",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "displayName": "OrganiZer",
   "description": "This tool helps you keep organized and\nproductive with 4 different features, such\nas a Pomodoro timer and a task board.",
   "unity": "2020.3",
