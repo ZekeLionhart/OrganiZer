@@ -1,6 +1,6 @@
 {
   "name": "com.zekelionhart.organizer",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "displayName": "OrganiZer",
   "description": "This tool helps you keep organized and\nproductive with 4 different features, such\nas a Pomodoro timer and a task board.",
   "unity": "2020.3",
@@ -15,5 +15,6 @@
     "email": "luizh_pc@hotmail.com",
     "url": "https://github.com/ZekeLionhart"
   },
+  "documentationUrl": "https://github.com/ZekeLionhart/OrganiZer/tree/main/Documentation",
   "type": "tool"
 }
